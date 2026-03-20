@@ -4,7 +4,7 @@ $tokenBot = "8176524376:AAGB7CvDkBk1xAJfeWgB4NxcAFzuf0Lctg0";
 $chat_id = "1431110316";
 
 // ===== GITHUB =====
-$github_token = "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";
+$github_token = "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";
 $repo = "alexandrejpa1/esp-comandos";
 $file = "comando.txt";
 
